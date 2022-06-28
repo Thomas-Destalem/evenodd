@@ -1,0 +1,15 @@
+C:\Users\wwwth\source\repos\even and odd\even and odd\obj\Debug\net6.0\even and odd.csproj.AssemblyReference.cache
+C:\Users\wwwth\source\repos\even and odd\even and odd\obj\Debug\net6.0\even and odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wwwth\source\repos\even and odd\even and odd\obj\Debug\net6.0\even and odd.AssemblyInfoInputs.cache
+C:\Users\wwwth\source\repos\even and odd\even and odd\obj\Debug\net6.0\even and odd.AssemblyInfo.cs
+C:\Users\wwwth\source\repos\even and odd\even and odd\obj\Debug\net6.0\even and odd.csproj.CoreCompileInputs.cache
+C:\Users\wwwth\source\repos\even and odd\even and odd\bin\Debug\net6.0\even and odd.exe
+C:\Users\wwwth\source\repos\even and odd\even and odd\bin\Debug\net6.0\even and odd.deps.json
+C:\Users\wwwth\source\repos\even and odd\even and odd\bin\Debug\net6.0\even and odd.runtimeconfig.json
+C:\Users\wwwth\source\repos\even and odd\even and odd\bin\Debug\net6.0\even and odd.dll
+C:\Users\wwwth\source\repos\even and odd\even and odd\bin\Debug\net6.0\even and odd.pdb
+C:\Users\wwwth\source\repos\even and odd\even and odd\obj\Debug\net6.0\even and odd.dll
+C:\Users\wwwth\source\repos\even and odd\even and odd\obj\Debug\net6.0\refint\even and odd.dll
+C:\Users\wwwth\source\repos\even and odd\even and odd\obj\Debug\net6.0\even and odd.pdb
+C:\Users\wwwth\source\repos\even and odd\even and odd\obj\Debug\net6.0\even and odd.genruntimeconfig.cache
+C:\Users\wwwth\source\repos\even and odd\even and odd\obj\Debug\net6.0\ref\even and odd.dll
